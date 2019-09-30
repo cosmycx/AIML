@@ -2,5 +2,8 @@
 spec.md
 .DS_Store
 
+# Python 
+__pycache__/
+# Jupyter
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
