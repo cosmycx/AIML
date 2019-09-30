@@ -1,3 +1,6 @@
 .idea
 spec.md
 .DS_Store
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
